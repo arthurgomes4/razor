@@ -1,0 +1,26 @@
+
+#######################################################
+############# Keywords for the razor Library ############
+#######################################################
+
+################### Main Classes ######################
+razor	KEYWORD1
+sio	KEYWORD1
+
+
+################### Functions #########################
+extractYPR			KEYWORD2
+displayYPR			KEYWORD2
+displayFYPR			KEYWORD2
+displayWYPR			KEYWORD2
+calculateFYPR			KEYWORD2
+fetchFYPR			KEYWORD2
+fetchYPR			KEYWORD2	
+setReferenceYPR			KEYWORD2
+calculateWYPR			KEYWORD2
+setSerialMonitor		KEYWORD2
+serialMonitor			KEYWORD2	
+writeToSerial 			KEYWORD2
+readFromSerial 			KEYWORD2
+readFromSerialMonitor 		KEYWORD2
+toggleSerialMonitorStatus	KEYWORD2
